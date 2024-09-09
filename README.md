@@ -56,6 +56,6 @@ This will fetch 6 SRA files associated with this BioSample ID
 
 3. Nucleotide ID: NC_002549.1
       ```
-   ./jamboree.sh SAMN00000110
+   ./jamboree.sh NC_002549.1
    ```
 This will not fetch any file as no SRA files are associated directly with this nucleotide sequence or the bioproject
